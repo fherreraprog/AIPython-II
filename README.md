@@ -9,8 +9,8 @@ Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte II
 
 [Servidor en Discord](https://discord.gg/8UkcdXqvj3)
 
-## [Notas](https://drive.google.com/drive/folders/1wBWHY-kG4DMrAApsBjH40fqDg9eRPSsN?usp=sharing)
+## [Notas](https://drive.google.com/drive/folders/1WxhyJyLV8GPxJgFPMbG2ZAOYwN2WaDqO?usp=sharing)
 
 
-## [Guía de Ejercicios](https://drive.google.com/drive/folders/14bx-5kNVmhQPeIzpreRNmN4Kv5InSR5P?usp=sharing) 
+## [Guía de Ejercicios](https://drive.google.com/drive/folders/1vmtHtYxHpey77te273wjQRtbxJxeHmAk?usp=sharing) 
 
