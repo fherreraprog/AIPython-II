@@ -1,4 +1,4 @@
-<img width="1000" alt="IMG_0635" src="https://github.com/user-attachments/assets/f0a3797c-d1f2-43e1-bfb2-bf6cd100a337">
+<img width="1000" alt="White Minimalist Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/8725ed89-60c0-4dda-a547-2cbeab82eab0">
 
 
 # AIPython-II
