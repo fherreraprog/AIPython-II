@@ -1,5 +1,5 @@
+<img width="1000" alt="IMG_0635" src="https://github.com/user-attachments/assets/f0a3797c-d1f2-43e1-bfb2-bf6cd100a337">
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/070555a1-2131-4abc-abf6-e9fb2e700797">
 
 # AIPython-II
 
