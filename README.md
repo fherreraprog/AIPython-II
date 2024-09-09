@@ -5,9 +5,8 @@
 
 Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte II
 
-## Comunicación via Discord
 
-[Servidor en Discord](https://discord.gg/sUsgC5Qj2A)
+## [Servidor en Discord](https://discord.gg/sUsgC5Qj2A)
 
 ## [Notas](https://drive.google.com/drive/folders/1WxhyJyLV8GPxJgFPMbG2ZAOYwN2WaDqO?usp=sharing)
 
