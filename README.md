@@ -10,7 +10,7 @@ Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte II
 
 ## [Notas](https://drive.google.com/drive/folders/1WxhyJyLV8GPxJgFPMbG2ZAOYwN2WaDqO?usp=sharing)
 
-## [Videos](https://drive.google.com/drive/folders/1Gp84f6MXX6fK_y37j0XnWT3GwsZ_jxH3?usp=sharing)
+## [Videos](https://youtube.com/playlist?list=PLwnnbLTTUAa-UJAyR3snLfxOl5YxYLB0Z&si=fTbHmky1166pwV3n)
 
 ## [Guía de Ejercicios](https://drive.google.com/drive/folders/1vmtHtYxHpey77te273wjQRtbxJxeHmAk?usp=sharing) 
 
